@@ -1,11 +1,10 @@
 {
   "packs": [
     "Sonic.json",
-    "CourageDogstickers.json",
     "MyNightFury.json",
+    "CourageDogstickers.json",
     "PrettySailorMoon.json",
     "Simba.json",
-    "Simbasimba.json",
     "the_powerfuff_girls_by_Yamileth.json"
   ],
   "homeserver_url": "https://matrix.keyjaycompound.com"
