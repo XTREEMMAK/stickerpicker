@@ -1,7 +1,7 @@
 {
   "packs": [
-"KJCustom.json",    
-"Sonic.json",
+    "KJCustom.json",
+    "Sonic.json",
     "MyNightFury.json",
     "CourageDogstickers.json",
     "CupidDog.json",
@@ -22,7 +22,8 @@
     "JudyArtOfZootopia.json",
     "naruto1_av.json",
     "SuperSaiyan.json",
-    "younmeforever.json"
+    "younmeforever.json",
+    "Tomandjerrynew.json"
   ],
   "homeserver_url": "https://matrix.keyjaycompound.com"
 }
